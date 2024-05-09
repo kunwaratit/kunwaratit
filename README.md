@@ -142,7 +142,16 @@
       width="40"
       height="40"
     />
- </a></td></tr></table>
+ </a></td>
+    <td><a href="https://unity.com/" target="_blank" rel="noreferrer">
+     <img
+    src="https://techstack-generator.vercel.app/github-icon.svg"
+    alt="icon"
+    width="65"
+    height="65"
+  />
+    </a></td>
+  </tr></table>
 </p>
 
 <p>
