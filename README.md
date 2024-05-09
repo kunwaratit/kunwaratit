@@ -49,12 +49,12 @@
     />
   </a></td>
   <td><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img
+   <img
     src="https://techstack-generator.vercel.app/django-icon.svg"
     alt="icon"
     width="65"
     height="65"
-  /><br> Django
+  />><br> Django
   </a></td>
   <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
