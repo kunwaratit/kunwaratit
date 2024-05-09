@@ -1,5 +1,5 @@
 ### Hi there 👋 ⚡🌱
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <h1 align="center">Hi 👋, I'm Atit Kunwar</h1>
