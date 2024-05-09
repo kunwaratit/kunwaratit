@@ -54,7 +54,7 @@
     alt="icon"
     width="65"
     height="65"
-  />><br> Django
+  /><br> <p>Django</p>
   </a></td>
   <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
@@ -125,15 +125,15 @@
     />
   </a></td>
   <td><a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
+      <img
+    src="https://techstack-generator.vercel.app/python-icon.svg"
+    alt="icon"
+    width="65"
+    height="65"
+  /><br><p>Python</p>
   </a></td>
   <td><a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="68" height="68" />React
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="68" height="68" /><br><p>React</p>
   </a></td>
   <td><a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img
