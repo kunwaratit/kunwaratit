@@ -151,24 +151,6 @@
   />
 </p>
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=kunwaratit&show_icons=true&locale=en"
-    alt="kunwaratit"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=kunwaratit&"
-    alt="kunwaratit"
-  />
-</p>
-
-
-# Tech Stack
 
 
 # GitHub Stats
@@ -191,5 +173,4 @@
   </thead>
 </table>
 
-# Contact Me
 
