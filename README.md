@@ -21,7 +21,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <table ><tr><td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+  <table style='border:1px solid rgb(123, 123, 123);
+        border-collapse: collapse;'><tr><td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
       alt="c"
@@ -146,14 +147,7 @@
     />
  </a></td></tr></table>
 </p>
-<style>
-      table, th,td {
-        border:1px solid rgb(123, 123, 123);
-        border-collapse: collapse;
 
-      }
-      
-      </style>
 <p>
   <img
     align="left"
