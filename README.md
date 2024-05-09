@@ -1,12 +1,18 @@
 ### Hi there 👋 ⚡🌱
 
 <h1 align="center">Hi 👋, I'm Atit Kunwar</h1>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kunwaratit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=kunwaratit&icon=6&color=1)](https://visitcount.itsvg.in)
+<!--
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=kunwaratit&label=Profile%20views&color=0e75b6&style=flat"
     alt="kunwaratit"
   />
-</p>
+</p>-->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
@@ -173,9 +179,4 @@
   </thead>
 </table>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kunwaratit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=kunwaratit&icon=6&color=1)](https://visitcount.itsvg.in)
 
